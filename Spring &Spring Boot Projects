@@ -1,0 +1,4 @@
+1. Created SpringBoot Project with basic Autowire.
+2.Moving to Spring --> XML config
+3.Moving to Spring --> JAVA config
+4.Spring JDBC (H2 database)
